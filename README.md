@@ -34,6 +34,8 @@ and works of readow, the wanging had and the too to the charmore contrie,
 and the strength and the pretend to me against and the grave be greater,
 the world to be nothing the father to and scare,
 
+-End example-
+
 At the end, although my computer generated poetry doesn’t make a lot of sense, it was able to create words and pick 
 up on some sort of poetic structure, like alliteration and line breaks. Other alterations of temperature shows that 
 the model was able to pick up on the most common formation of characters, and generated a lot of “the” and “and” words.  
